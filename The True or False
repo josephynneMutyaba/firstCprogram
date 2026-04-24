@@ -1,0 +1,11 @@
+#iclude<stdio.h>
+int main(){
+int A=20, B=45;
+printf("A==B:%s\n":"True":"False");
+printf("A!=B:%s\n":"True":"False");
+printf("A>B:%s\n":"True":"False");
+printf("A<B:%s\n":"True":"False");
+printf("A>=B:%s\n":"True":"False");
+printf("A<=B:%s\n":"True":"False");
+return 0;
+}
